@@ -1,2 +1,3 @@
 # AprendizadoGit
-Primeiro repositorio
+
+Primeiro repositorio, criado para aprender a usar o Github
